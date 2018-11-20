@@ -1,0 +1,6 @@
+﻿  test.cpp
+e:\c\stframe\stframe\test.cpp(46): warning C4101: “outText”: 未引用的局部变量
+  正在生成代码
+  All 85 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  STFRAME.vcxproj -> E:\C\STFRAME\Release\STFRAME.exe

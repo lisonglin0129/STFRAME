@@ -1,0 +1,7 @@
+﻿  test.cpp
+e:\c\stframe\stframe\test.cpp(61): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 7 拥有了类型“std::string”
+e:\c\stframe\stframe\test.cpp(45): warning C4101: “outText”: 未引用的局部变量
+  正在生成代码
+  All 86 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  STFRAME.vcxproj -> E:\C\STFRAME\Release\STFRAME.exe
